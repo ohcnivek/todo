@@ -1,2 +1,3 @@
 # learn_react
-learning react from freecodecamp
+
+a lil to do app to go over basic react stuff
